@@ -2,10 +2,14 @@
   display: grid;
   justify-content: center;
 
-  margin-top: 92px;
-  padding: 0 48px;
+  margin: 92px 48px 0;
 
-  grid-template-columns: repeat(4, 284px);
-  grid-template-rows: repeat(3, 213px);
+  grid-template-columns: repeat(4, 1fr);
   gap: 16px;
+}
+
+@media screen and (max-width: 1024px) {
+  .photo-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
