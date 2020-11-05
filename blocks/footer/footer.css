@@ -6,3 +6,9 @@
   margin: 92px 48px 0;
   padding-bottom: 24px;
 }
+
+@media screen and (max-width: 768px) {
+  .footer {
+    margin: 86px 24px 0;
+  }
+}
