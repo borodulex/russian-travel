@@ -26,3 +26,21 @@
     column-gap: 28px;
   }
 }
+
+@media screen and (max-width: 680px) {
+  .place {
+    row-gap: 32px;
+    grid-template-columns: fit-content(680px);
+    grid-template-rows: 1fr;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place {
+    margin: 49px 0 0;
+
+    row-gap: 32px;
+    grid-template-columns: fit-content(320px);
+    grid-template-rows: 1fr;
+  }
+}

@@ -13,3 +13,9 @@
     margin: 56px 0 0;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .lead__image-wrapper {
+    margin: 40px 0 0;
+  }
+}
