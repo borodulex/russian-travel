@@ -1,23 +1,30 @@
-# Проект 3: Путешествие по России
+# Project 3: Russian travel
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+## About
 
-**Интро**
+The project is an adaptive web page about traveling in Russia developed using the knowledge gained from the second course for web-developers at Yandex.Praktikum.
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+Page is optimized for the following device resolutions:
 
-**Figma**
+- 1280px
+- 1024px
+- 768px
+- 320px
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
+## Used languages, technoligies, methodologies
 
-**Картинки**
+- _(new)_ Grid layout
+- _(new)_ Media queries
+- _(new)_ Font smoothing
+- _(new)_ Figma
+- HTML
+- CSS
+- Semantic markup
+- Flexbox
+- CSS animations
+- BEM methodology
+- BEM nested file structure
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+## How to use
 
-Удачи!
+Download the files and open index.html with browser. Tested out in Firefox, Google Chrome and Yandex Browser.
