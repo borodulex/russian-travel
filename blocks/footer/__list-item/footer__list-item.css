@@ -1,0 +1,9 @@
+@media screen and (max-width: 680px) {
+  .footer__list-item {
+    margin-top: 32px;
+  }
+
+  .footer__list-item:first-child {
+    margin-top: 0;
+  }
+}
