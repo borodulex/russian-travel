@@ -1,17 +1,18 @@
-# Project 3: Russian travel
+# Проект: Путешествия по России
+Демо: [borodulex.github.io/russian-travel](https://borodulex.github.io/russian-travel)
 
-## About
+## О проекте
 
-The project is an adaptive web page about traveling in Russia developed using the knowledge gained from the second course for web-developers at Yandex.Praktikum.
+Проект представляет собой адаптивную веб-страницу о путешествиях по России. Работа над проектом выполнена в рамках обучения на курсе для веб-разработчиков в Яндекс.Практикум.
 
-Page is optimized for the following device resolutions:
+Поддерживаемые разрешения экрана:
 
 - 1280px
 - 1024px
 - 768px
 - 320px
 
-## Used languages, technoligies, methodologies
+## Использованные языки, технологии и методологии
 
 - _(new)_ Grid layout
 - _(new)_ Media queries
@@ -25,6 +26,6 @@ Page is optimized for the following device resolutions:
 - BEM methodology
 - BEM nested file structure
 
-## How to use
+## Как использовать
 
-Visit this [page](https://borodulex.github.io/russian-travel/) or download the files and open index.html with browser. Tested out in Firefox, Google Chrome and Yandex Browser.
+Посетите эту [страницу](https://borodulex.github.io/russian-travel) или загрузите файлы и откройте index.html с помощью браузера. Работоспособность проверена в Firefox, Google Chrome и Яндекс браузере.
